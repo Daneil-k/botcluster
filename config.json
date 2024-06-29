@@ -1,0 +1,26 @@
+{   
+    "bot": {
+        "source": "https://Daneil-k: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@github.com/Daneil-k/anime-autofilter.git",
+        "branch": "main",
+        "env": {
+            "TOKEN": "6714353298:AAFjpIh07ys3DXJM-k52hjDn06IwbBuHcVk",
+        },
+        "run": "bot.py"
+    },
+    "botd": {
+        "source": "https://Daneil-k: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@github.com/Daneil-k/anime-filestore.git",
+        "branch": "main",
+        "env": {
+            "TOKEN": "6380726294:AAG381xjFQbwoBQLaK0n2S8CgBaCfFj0OEk"
+        },
+        "run": "bot.py"
+    },
+    "botf": {
+        "source": "https://Daneil-k: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@github.com/Daneil-k/anime-filestore.git",
+        "branch": "2-fsub",
+        "env": {
+            "TOKEN": "7075470750:AAEc3p8puSge4ibHhvh4dZGk92EHZ_olYV4"
+        },
+        "run": "bot.py"
+    }
+}
