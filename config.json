@@ -3,7 +3,7 @@
         "source": "https://Daneil-k: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@github.com/Daneil-k/anime-autofilter.git",
         "branch": "main",
         "env": {
-            "TOKEN": "6714353298:AAFjpIh07ys3DXJM-k52hjDn06IwbBuHcVk",
+            "TOKEN": "6714353298:AAFjpIh07ys3DXJM-k52hjDn06IwbBuHcVk"
         },
         "run": "bot.py"
     },
